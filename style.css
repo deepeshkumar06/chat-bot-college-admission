@@ -1,0 +1,40 @@
+/* Style for the main content area */
+body {
+    font-family: Arial, sans-serif; /* Use your preferred font */
+}
+
+/* Style for the chat messages */
+.chat-message {
+    background-color: #e6f2ff; /* Light blue background for messages */
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+/* Style for the user's messages */
+.user-message {
+    background-color: #e2f3e8; /* Light green background for user's messages */
+}
+
+/* Style for the chatbot's messages */
+.bot-message {
+    background-color: #f5e5ec; /* Light pink background for bot's messages */
+}
+
+/* Style for the input message field */
+.stTextInput {
+    border-radius: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+/* Style for the chat title */
+h1 {
+    color: #333; /* Dark gray color for title */
+}
+
+/* Style for the chat instructions */
+h3 {
+    color: #666; /* Medium gray color for instructions */
+}
